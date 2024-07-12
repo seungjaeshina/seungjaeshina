@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <div align=center>
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /> 
-    반갑습니다! 신승재 입니다! 
+    반갑습니다! 신입 배엔드 개발자 신승재 입니다! 
   </h2>
   <br/> 
 
   ## About Me
-  안녕하세요! 저는 신승재입니다. 현재 [회사 이름]에서 [역할]로 일하고 있으며, [특정 기술/프레임워크]에 열정을 가지고 있습니다. 
+  안녕하세요! 저는 신승재입니다. 현재 신입 백엔드 개발자로써 역량을 갖추고 있으며, [JAVA/SPRING]에 열정을 가지고 있습니다. 
 
   <h4> 🛠 Tech Stacks </h4>
   <table>
@@ -79,6 +79,18 @@ Here are some ideas to get you started:
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=seungjaeshina&theme=onedark" />
   </div>
-
-
   
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=seungjaeshina&color=blue" />
+  </div>
+  
+  <div align="center">
+    <a href="https://www.instagram.com/04_07_ss/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    </a>
+  </div>
+  
+  <div align="center">
+    <img src="https://github.com/seungjaeshina/seungjaeshina/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </div>
+</div>
