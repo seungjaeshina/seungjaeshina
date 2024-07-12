@@ -90,7 +90,4 @@ Here are some ideas to get you started:
     </a>
   </div>
   
-  <div align="center">
-    <img src="https://github.com/seungjaeshina/seungjaeshina/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </div>
 </div>
